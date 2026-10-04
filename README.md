@@ -74,7 +74,7 @@ En la terminal se observó el siguiente flujo para ambos scripts:
 2.  Ejecución del script con `python3 blinkBCM.py`.
 3.  Impresión en consola alternando: `LED ENCENDIDO` y `LED APAGADO`.
 
-![Captura de pantalla - Terminal BCM](images/BCMTerminal.jpeg)
+![Captura de pantalla - Terminal BCM](images/BCMterminal.jpeg)
 
 4.  Interrupción manual con `Ctrl+C` y mensaje de limpieza exitosa: `GPIO limpiado. Programa finalizado.`
 
@@ -83,7 +83,7 @@ En la terminal se observó el siguiente flujo para ambos scripts:
 2.  Ejecución del script con `python3 blinkPIN.py`.
 3.  Impresión en consola del ciclo: `Ciclo 1/10 completado`, `Ciclo 2/10 completado`, etc.
 
-![Captura de pantalla - Terminal PIN](images/PINTerminal.jpeg)
+![Captura de pantalla - Terminal PIN](images/PINterminal.jpeg)
 
 4.  Interrupción manual con `Ctrl+C` y mensaje de limpieza exitosa: `Sistema apagado correctamente`.
 
